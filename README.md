@@ -1,3 +1,3 @@
 # WhiteboardPenClip
 
-https://www.jet2fan.com/3dprinter#h.4cx8z3d42yu3
+https://www.jet2fan.com/openscad#h.4cx8z3d42yu3
